@@ -1,3 +1,21 @@
+## How to use ?
+
+## Laravel version 5.5 with VueJs 2.1
+
+<p><b>1 º - create a file .env based on .env_example and set your database access</b></p>
+<p>DB_DATABASE=homestead</p>
+<p>DB_USERNAME=homestead</p>
+<p>DB_PASSWORD=secret</p>
+
+<p><b>2º - Access the project directory and run the following commands.</b></p>
+<p>npm install (install required packages)</p>
+<p>npm run dev (compiled files)</p>
+<p>php artisan key:generate (gerenate a key for laravel)</p>
+<p>php artisan migrate (create migrations in the database)</p>
+<p>php artisan serve (start service)</p>
+
+<p>If everything went well, you can access the system.</p>
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
