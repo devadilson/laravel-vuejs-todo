@@ -168,7 +168,7 @@
     }   
 </script>
 
-<<style>
+<style>
     .tasks-list {
         padding-top: 20px;
     }
